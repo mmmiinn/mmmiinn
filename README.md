@@ -1,7 +1,7 @@
 <div style='text-align:center'>
   
 ### Hi there 👋
-
+<br />
 <div style=display:flex;>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -10,8 +10,12 @@
 <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 </div>
 
+### ⚡ Fun fact
+<br />
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmmiinn&theme=onedark&show_icons=true)](https://github.com/mmmiinn/github-readme-stats)
 <br />
+<br />
+### velog ✨
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=mmmiinn)](https://github.com/mmmiinn/velog-readme-stats)
 
 
