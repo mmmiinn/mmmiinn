@@ -10,15 +10,16 @@
 <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 </div>
 
-### ⚡ Fun fact
+### Fun fact ⚡ 
 <br />
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmmiinn&theme=onedark&show_icons=true)](https://github.com/mmmiinn/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmmiinn&theme=onedark&show_icons=true)](https://github.com/mmmiinn/github-readme-stats)
 <br />
 <br />
-### velog ✨
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=mmmiinn)](https://github.com/mmmiinn/velog-readme-stats)
+ ### velog ✨
+ <br />
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=mmmiinn)](https://github.com/mmmiinn/velog-readme-stats)
 
-
+</div>
 <!--
 **mmmiinn/mmmiinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,4 +34,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-</div>
+
