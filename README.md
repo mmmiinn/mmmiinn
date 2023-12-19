@@ -10,7 +10,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmmiinn&theme=onedark&show_icons=true)](https://github.com/mmmiinn/github-readme-stats)
 <br />
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=mmmiinn)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=mmmiinn)](https://github.com/mmmiinn/velog-readme-stats)
 
 
 <!--
