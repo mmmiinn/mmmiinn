@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+// css
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+// css
+
+// css
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eungyeole)](https://github.com/eungyeole/velog-readme-stats)
+
+
 <!--
 **mmmiinn/mmmiinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
