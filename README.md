@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmmiinn)](https://github.com/mmmiinn/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmmiinn&theme=dark&show_icons=true)](https://github.com/mmmiinn/github-readme-stats)
 <br />
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eungyeole)](https://github.com/eungyeole/velog-readme-stats)
 
