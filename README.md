@@ -1,3 +1,5 @@
+<div style='text-align:center'>
+  
 ### Hi there 👋
 
 <div style=display:flex;>
@@ -27,3 +29,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
