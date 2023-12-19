@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 </div>
 
-### Fun fact ⚡ 
+## Hi there 👋
 <br />
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmmiinn&theme=onedark&show_icons=true)](https://github.com/mmmiinn/github-readme-stats)
 <br />
