@@ -11,9 +11,6 @@
 <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 </div>
 
-### Fun fact ⚡
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmmiinn&theme=onedark&show_icons=true)](https://github.com/mmmiinn/github-readme-stats)
-<br/>
 ### velog ✨
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=mmmiinn)](https://github.com/mmmiinn/velog-readme-stats)
 
