@@ -11,9 +11,11 @@
 <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 </div>
 
+### Langs 🥨
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmmiinn)](https://github.com/mmmiinn/github-readme-stats)
+
 ### velog ✨
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=mmmiinn)](https://github.com/mmmiinn/velog-readme-stats)
-
 </div>
 <!--
 **mmmiinn/mmmiinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
