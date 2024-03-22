@@ -14,7 +14,7 @@
 ### Langs 🥨
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmmiinn)](https://github.com/mmmiinn/github-readme-stats)
 
-### velog ✨https://velog.io/@mmmiinn
+### velog ✨
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eungyeole)](https://github.com/eungyeole/velog-readme-stats)
 </div>
 <!--
