@@ -14,8 +14,8 @@
 ### Langs 🥨
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmmiinn)](https://github.com/mmmiinn/github-readme-stats)
 
-### velog ✨
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=mmmiinn)](https://github.com/mmmiinn/velog-readme-stats)
+### velog ✨https://velog.io/@mmmiinn
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eungyeole)](https://github.com/eungyeole/velog-readme-stats)
 </div>
 <!--
 **mmmiinn/mmmiinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
